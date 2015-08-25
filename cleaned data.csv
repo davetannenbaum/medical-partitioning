@@ -1,0 +1,1163 @@
+id,trial,subject_id,cond1,cond2,cond3,cond4,cond5,gender,age,specialty,degree,practice_type,years_practice,hours,responder,dv,cond
+1,1,103,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,47,Family medicine,MD,Private,14,36,responders,0,0
+1,2,103,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,47,Family medicine,MD,Private,14,36,responders,1,0
+1,3,103,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,47,Family medicine,MD,Private,14,36,responders,0,0
+1,4,103,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,47,Family medicine,MD,Private,14,36,responders,0,0
+1,5,103,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,47,Family medicine,MD,Private,14,36,responders,0,0
+1,6,103,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,47,Family medicine,MD,Private,14,36,responders,0,0
+1,7,103,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,47,Family medicine,MD,Private,14,36,responders,0,0
+2,1,105,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,40,Family medicine,MD,Private,12,50,responders,0,0
+2,2,105,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,40,Family medicine,MD,Private,12,50,responders,0,0
+2,3,105,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,40,Family medicine,MD,Private,12,50,responders,0,0
+2,4,105,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,40,Family medicine,MD,Private,12,50,responders,1,1
+2,5,105,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,40,Family medicine,MD,Private,12,50,responders,0,1
+2,6,105,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,40,Family medicine,MD,Private,12,50,responders,0,1
+2,7,105,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,40,Family medicine,MD,Private,12,50,responders,0,1
+3,1,106,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,33,Family medicine,MD,Private,2,32,responders,0,1
+3,2,106,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,33,Family medicine,MD,Private,2,32,responders,1,1
+3,3,106,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,33,Family medicine,MD,Private,2,32,responders,0,1
+3,4,106,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,33,Family medicine,MD,Private,2,32,responders,1,1
+3,5,106,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,33,Family medicine,MD,Private,2,32,responders,1,1
+3,6,106,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,33,Family medicine,MD,Private,2,32,responders,1,1
+3,7,106,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,33,Family medicine,MD,Private,2,32,responders,1,1
+4,1,108,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,43,Family medicine,MD,Private,13,50,responders,0,1
+4,2,108,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,43,Family medicine,MD,Private,13,50,responders,0,1
+4,3,108,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,43,Family medicine,MD,Private,13,50,responders,0,1
+4,4,108,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,43,Family medicine,MD,Private,13,50,responders,0,0
+4,5,108,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,43,Family medicine,MD,Private,13,50,responders,1,0
+4,6,108,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,43,Family medicine,MD,Private,13,50,responders,1,0
+4,7,108,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,43,Family medicine,MD,Private,13,50,responders,0,0
+5,1,110,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,52,Family medicine,MD,Private,24,50,responders,0,0
+5,2,110,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,52,Family medicine,MD,Private,24,50,responders,1,0
+5,3,110,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,52,Family medicine,MD,Private,24,50,responders,0,0
+5,4,110,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,52,Family medicine,MD,Private,24,50,responders,1,1
+5,5,110,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,52,Family medicine,MD,Private,24,50,responders,0,1
+5,6,110,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,52,Family medicine,MD,Private,24,50,responders,0,1
+5,7,110,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,52,Family medicine,MD,Private,24,50,responders,0,1
+6,1,111,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,,Family medicine,MD,Private,,,responders,0,1
+6,2,111,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,,Family medicine,MD,Private,,,responders,0,1
+6,3,111,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,,Family medicine,MD,Private,,,responders,0,1
+6,4,111,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,,Family medicine,MD,Private,,,responders,1,0
+6,5,111,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,,Family medicine,MD,Private,,,responders,0,0
+6,6,111,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,,Family medicine,MD,Private,,,responders,1,0
+6,7,111,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,,Family medicine,MD,Private,,,responders,0,0
+7,1,112,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,male,32,Family medicine,MD,Private,3,32,responders,0,0
+7,2,112,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,male,32,Family medicine,MD,Private,3,32,responders,1,0
+7,3,112,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,male,32,Family medicine,MD,Private,3,32,responders,0,0
+7,4,112,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,male,32,Family medicine,MD,Private,3,32,responders,0,0
+7,5,112,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,male,32,Family medicine,MD,Private,3,32,responders,1,0
+7,6,112,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,male,32,Family medicine,MD,Private,3,32,responders,1,0
+7,7,112,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,male,32,Family medicine,MD,Private,3,32,responders,0,0
+8,1,113,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,76,Family medicine,MD,Private,43,30,responders,0,0
+8,2,113,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,76,Family medicine,MD,Private,43,30,responders,1,0
+8,3,113,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,76,Family medicine,MD,Private,43,30,responders,0,0
+8,4,113,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,76,Family medicine,MD,Private,43,30,responders,1,0
+8,5,113,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,76,Family medicine,MD,Private,43,30,responders,1,0
+8,6,113,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,76,Family medicine,MD,Private,43,30,responders,1,0
+8,7,113,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,76,Family medicine,MD,Private,43,30,responders,0,0
+9,1,114,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,53,Family medicine,MD,Private,20,40,responders,1,1
+9,2,114,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,53,Family medicine,MD,Private,20,40,responders,1,1
+9,3,114,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,53,Family medicine,MD,Private,20,40,responders,0,1
+9,4,114,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,53,Family medicine,MD,Private,20,40,responders,1,1
+9,5,114,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,53,Family medicine,MD,Private,20,40,responders,1,1
+9,6,114,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,53,Family medicine,MD,Private,20,40,responders,1,1
+9,7,114,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,53,Family medicine,MD,Private,20,40,responders,1,1
+10,1,117,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,38,Family medicine,MD,Private,9,50,responders,0,1
+10,2,117,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,38,Family medicine,MD,Private,9,50,responders,1,1
+10,3,117,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,38,Family medicine,MD,Private,9,50,responders,0,1
+10,4,117,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,38,Family medicine,MD,Private,9,50,responders,1,1
+10,5,117,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,38,Family medicine,MD,Private,9,50,responders,1,1
+10,6,117,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,38,Family medicine,MD,Private,9,50,responders,1,1
+10,7,117,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,38,Family medicine,MD,Private,9,50,responders,1,1
+11,1,120,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,32,Family medicine,MD,Private,5,30,responders,0,1
+11,2,120,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,32,Family medicine,MD,Private,5,30,responders,1,1
+11,3,120,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,32,Family medicine,MD,Private,5,30,responders,0,1
+11,4,120,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,32,Family medicine,MD,Private,5,30,responders,0,1
+11,5,120,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,32,Family medicine,MD,Private,5,30,responders,1,1
+11,6,120,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,32,Family medicine,MD,Private,5,30,responders,1,1
+11,7,120,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,32,Family medicine,MD,Private,5,30,responders,1,1
+12,1,123,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,0,34,responders,0,0
+12,2,123,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,0,34,responders,1,0
+12,3,123,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,0,34,responders,0,0
+12,4,123,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,0,34,responders,0,0
+12,5,123,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,0,34,responders,0,0
+12,6,123,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,0,34,responders,1,0
+12,7,123,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,0,34,responders,,0
+13,1,124,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,44,Family medicine,MD,Private,15,20,responders,0,0
+13,2,124,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,44,Family medicine,MD,Private,15,20,responders,1,0
+13,3,124,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,44,Family medicine,MD,Private,15,20,responders,0,0
+13,4,124,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,44,Family medicine,MD,Private,15,20,responders,0,1
+13,5,124,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,44,Family medicine,MD,Private,15,20,responders,1,1
+13,6,124,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,44,Family medicine,MD,Private,15,20,responders,1,1
+13,7,124,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,44,Family medicine,MD,Private,15,20,responders,1,1
+14,1,131,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,female,46,Family medicine,MD,Private,8,28,responders,0,0
+14,2,131,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,female,46,Family medicine,MD,Private,8,28,responders,0,0
+14,3,131,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,female,46,Family medicine,MD,Private,8,28,responders,0,0
+14,4,131,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,female,46,Family medicine,MD,Private,8,28,responders,0,1
+14,5,131,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,female,46,Family medicine,MD,Private,8,28,responders,0,1
+14,6,131,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,female,46,Family medicine,MD,Private,8,28,responders,1,1
+14,7,131,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,female,46,Family medicine,MD,Private,8,28,responders,0,1
+15,1,133,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,43,Internal medicine,MD,FQHC,15,12,responders,0,1
+15,2,133,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,43,Internal medicine,MD,FQHC,15,12,responders,0,1
+15,3,133,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,43,Internal medicine,MD,FQHC,15,12,responders,0,1
+15,4,133,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,43,Internal medicine,MD,FQHC,15,12,responders,0,0
+15,5,133,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,43,Internal medicine,MD,FQHC,15,12,responders,1,0
+15,6,133,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,43,Internal medicine,MD,FQHC,15,12,responders,0,0
+15,7,133,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,43,Internal medicine,MD,FQHC,15,12,responders,0,0
+16,1,137,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,48,Internal medicine,NP,FQHC,12,36,responders,0,0
+16,2,137,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,48,Internal medicine,NP,FQHC,12,36,responders,1,0
+16,3,137,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,48,Internal medicine,NP,FQHC,12,36,responders,0,0
+16,4,137,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,48,Internal medicine,NP,FQHC,12,36,responders,0,1
+16,5,137,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,48,Internal medicine,NP,FQHC,12,36,responders,0,1
+16,6,137,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,48,Internal medicine,NP,FQHC,12,36,responders,1,1
+16,7,137,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,48,Internal medicine,NP,FQHC,12,36,responders,1,1
+17,1,140,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,59,Internal medicine,NP,FQHC,33,32,responders,0,1
+17,2,140,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,59,Internal medicine,NP,FQHC,33,32,responders,,1
+17,3,140,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,59,Internal medicine,NP,FQHC,33,32,responders,0,1
+17,4,140,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,59,Internal medicine,NP,FQHC,33,32,responders,0,0
+17,5,140,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,59,Internal medicine,NP,FQHC,33,32,responders,0,0
+17,6,140,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,59,Internal medicine,NP,FQHC,33,32,responders,0,0
+17,7,140,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,59,Internal medicine,NP,FQHC,33,32,responders,0,0
+18,1,141,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,50,Family medicine,MD,FQHC,20,28,responders,0,0
+18,2,141,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,50,Family medicine,MD,FQHC,20,28,responders,1,0
+18,3,141,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,50,Family medicine,MD,FQHC,20,28,responders,0,0
+18,4,141,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,50,Family medicine,MD,FQHC,20,28,responders,0,0
+18,5,141,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,50,Family medicine,MD,FQHC,20,28,responders,0,0
+18,6,141,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,50,Family medicine,MD,FQHC,20,28,responders,0,0
+18,7,141,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,50,Family medicine,MD,FQHC,20,28,responders,0,0
+19,1,142,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,60,Internal medicine,NP,FQHC,16,28,responders,0,1
+19,2,142,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,60,Internal medicine,NP,FQHC,16,28,responders,1,1
+19,3,142,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,60,Internal medicine,NP,FQHC,16,28,responders,0,1
+19,4,142,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,60,Internal medicine,NP,FQHC,16,28,responders,0,1
+19,5,142,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,60,Internal medicine,NP,FQHC,16,28,responders,0,1
+19,6,142,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,60,Internal medicine,NP,FQHC,16,28,responders,0,1
+19,7,142,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,60,Internal medicine,NP,FQHC,16,28,responders,1,1
+20,1,143,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,32,Internal medicine,MD,FQHC,1,28,responders,0,1
+20,2,143,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,32,Internal medicine,MD,FQHC,1,28,responders,1,1
+20,3,143,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,32,Internal medicine,MD,FQHC,1,28,responders,0,1
+20,4,143,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,32,Internal medicine,MD,FQHC,1,28,responders,0,1
+20,5,143,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,32,Internal medicine,MD,FQHC,1,28,responders,1,1
+20,6,143,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,32,Internal medicine,MD,FQHC,1,28,responders,0,1
+20,7,143,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,32,Internal medicine,MD,FQHC,1,28,responders,1,1
+21,1,145,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,56,Family medicine,NP,FQHC,28,20,responders,0,0
+21,2,145,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,56,Family medicine,NP,FQHC,28,20,responders,0,0
+21,3,145,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,56,Family medicine,NP,FQHC,28,20,responders,0,0
+21,4,145,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,56,Family medicine,NP,FQHC,28,20,responders,0,1
+21,5,145,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,56,Family medicine,NP,FQHC,28,20,responders,0,1
+21,6,145,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,56,Family medicine,NP,FQHC,28,20,responders,0,1
+21,7,145,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,56,Family medicine,NP,FQHC,28,20,responders,0,1
+22,1,148,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,53,Internal medicine,NP,FQHC,22,20,responders,0,0
+22,2,148,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,53,Internal medicine,NP,FQHC,22,20,responders,1,0
+22,3,148,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,53,Internal medicine,NP,FQHC,22,20,responders,0,0
+22,4,148,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,53,Internal medicine,NP,FQHC,22,20,responders,0,0
+22,5,148,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,53,Internal medicine,NP,FQHC,22,20,responders,0,0
+22,6,148,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,53,Internal medicine,NP,FQHC,22,20,responders,0,0
+22,7,148,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,53,Internal medicine,NP,FQHC,22,20,responders,0,0
+23,1,150,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Internal medicine,MD,FQHC,5,20,responders,1,0
+23,2,150,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Internal medicine,MD,FQHC,5,20,responders,0,0
+23,3,150,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Internal medicine,MD,FQHC,5,20,responders,0,0
+23,4,150,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Internal medicine,MD,FQHC,5,20,responders,0,0
+23,5,150,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Internal medicine,MD,FQHC,5,20,responders,0,0
+23,6,150,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Internal medicine,MD,FQHC,5,20,responders,0,0
+23,7,150,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Internal medicine,MD,FQHC,5,20,responders,1,0
+24,1,151,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,female,30,Family medicine,NP,FQHC,2,40,responders,1,1
+24,2,151,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,female,30,Family medicine,NP,FQHC,2,40,responders,1,1
+24,3,151,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,female,30,Family medicine,NP,FQHC,2,40,responders,0,1
+24,4,151,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,female,30,Family medicine,NP,FQHC,2,40,responders,0,0
+24,5,151,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,female,30,Family medicine,NP,FQHC,2,40,responders,,0
+24,6,151,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,female,30,Family medicine,NP,FQHC,2,40,responders,,0
+24,7,151,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,female,30,Family medicine,NP,FQHC,2,40,responders,,0
+25,1,152,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,35,Internal medicine,NP,FQHC,5,36,responders,0,1
+25,2,152,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,35,Internal medicine,NP,FQHC,5,36,responders,0,1
+25,3,152,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,35,Internal medicine,NP,FQHC,5,36,responders,0,1
+25,4,152,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,35,Internal medicine,NP,FQHC,5,36,responders,0,0
+25,5,152,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,35,Internal medicine,NP,FQHC,5,36,responders,0,0
+25,6,152,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,35,Internal medicine,NP,FQHC,5,36,responders,0,0
+25,7,152,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,35,Internal medicine,NP,FQHC,5,36,responders,0,0
+26,1,153,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,37,Family medicine,NP,FQHC,9,34,responders,1,0
+26,2,153,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,37,Family medicine,NP,FQHC,9,34,responders,0,0
+26,3,153,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,37,Family medicine,NP,FQHC,9,34,responders,0,0
+26,4,153,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,37,Family medicine,NP,FQHC,9,34,responders,0,1
+26,5,153,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,37,Family medicine,NP,FQHC,9,34,responders,1,1
+26,6,153,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,37,Family medicine,NP,FQHC,9,34,responders,1,1
+26,7,153,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,female,37,Family medicine,NP,FQHC,9,34,responders,0,1
+27,1,154,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,46,Internal medicine,MD,FQHC,8,38,responders,0,1
+27,2,154,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,46,Internal medicine,MD,FQHC,8,38,responders,0,1
+27,3,154,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,46,Internal medicine,MD,FQHC,8,38,responders,0,1
+27,4,154,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,46,Internal medicine,MD,FQHC,8,38,responders,0,0
+27,5,154,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,46,Internal medicine,MD,FQHC,8,38,responders,1,0
+27,6,154,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,46,Internal medicine,MD,FQHC,8,38,responders,0,0
+27,7,154,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,46,Internal medicine,MD,FQHC,8,38,responders,0,0
+28,1,156,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,37,Internal medicine,NP,FQHC,6,36,responders,1,1
+28,2,156,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,37,Internal medicine,NP,FQHC,6,36,responders,0,1
+28,3,156,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,37,Internal medicine,NP,FQHC,6,36,responders,1,1
+28,4,156,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,37,Internal medicine,NP,FQHC,6,36,responders,0,0
+28,5,156,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,37,Internal medicine,NP,FQHC,6,36,responders,1,0
+28,6,156,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,37,Internal medicine,NP,FQHC,6,36,responders,1,0
+28,7,156,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,37,Internal medicine,NP,FQHC,6,36,responders,1,0
+29,1,157,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,female,47,Family medicine,PA,FQHC,21,24,responders,0,1
+29,2,157,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,female,47,Family medicine,PA,FQHC,21,24,responders,1,1
+29,3,157,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,female,47,Family medicine,PA,FQHC,21,24,responders,0,1
+29,4,157,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,female,47,Family medicine,PA,FQHC,21,24,responders,1,1
+29,5,157,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,female,47,Family medicine,PA,FQHC,21,24,responders,1,1
+29,6,157,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,female,47,Family medicine,PA,FQHC,21,24,responders,1,1
+29,7,157,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,female,47,Family medicine,PA,FQHC,21,24,responders,1,1
+30,1,160,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,58,Other,NP,FQHC,15,32,responders,0,0
+30,2,160,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,58,Other,NP,FQHC,15,32,responders,0,0
+30,3,160,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,58,Other,NP,FQHC,15,32,responders,0,0
+30,4,160,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,58,Other,NP,FQHC,15,32,responders,0,0
+30,5,160,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,58,Other,NP,FQHC,15,32,responders,0,0
+30,6,160,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,58,Other,NP,FQHC,15,32,responders,1,0
+30,7,160,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,58,Other,NP,FQHC,15,32,responders,0,0
+31,1,162,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,male,59,Family medicine,MD,Private,31,50,responders,0,0
+31,2,162,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,male,59,Family medicine,MD,Private,31,50,responders,0,0
+31,3,162,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,male,59,Family medicine,MD,Private,31,50,responders,0,0
+31,4,162,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,male,59,Family medicine,MD,Private,31,50,responders,0,1
+31,5,162,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,male,59,Family medicine,MD,Private,31,50,responders,0,1
+31,6,162,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,male,59,Family medicine,MD,Private,31,50,responders,0,1
+31,7,162,OTC unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,male,59,Family medicine,MD,Private,31,50,responders,0,1
+32,1,163,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,47,Family medicine,MD,Private,18,32,responders,0,0
+32,2,163,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,47,Family medicine,MD,Private,18,32,responders,0,0
+32,3,163,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,47,Family medicine,MD,Private,18,32,responders,0,0
+32,4,163,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,47,Family medicine,MD,Private,18,32,responders,0,0
+32,5,163,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,47,Family medicine,MD,Private,18,32,responders,0,0
+32,6,163,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,47,Family medicine,MD,Private,18,32,responders,1,0
+32,7,163,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,47,Family medicine,MD,Private,18,32,responders,0,0
+33,1,165,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,33,Family medicine,MD,Private,4,24,responders,0,0
+33,2,165,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,33,Family medicine,MD,Private,4,24,responders,0,0
+33,3,165,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,33,Family medicine,MD,Private,4,24,responders,0,0
+33,4,165,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,33,Family medicine,MD,Private,4,24,responders,0,0
+33,5,165,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,33,Family medicine,MD,Private,4,24,responders,1,0
+33,6,165,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,33,Family medicine,MD,Private,4,24,responders,1,0
+33,7,165,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,33,Family medicine,MD,Private,4,24,responders,1,0
+34,1,168,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,51,Family medicine,MD,Private,23,45,responders,1,1
+34,2,168,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,51,Family medicine,MD,Private,23,45,responders,1,1
+34,3,168,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,51,Family medicine,MD,Private,23,45,responders,0,1
+34,4,168,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,51,Family medicine,MD,Private,23,45,responders,0,0
+34,5,168,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,51,Family medicine,MD,Private,23,45,responders,1,0
+34,6,168,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,51,Family medicine,MD,Private,23,45,responders,1,0
+34,7,168,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,51,Family medicine,MD,Private,23,45,responders,1,0
+35,1,169,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,28,Family medicine,MD,Private,15,40,responders,0,1
+35,2,169,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,28,Family medicine,MD,Private,15,40,responders,1,1
+35,3,169,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,28,Family medicine,MD,Private,15,40,responders,0,1
+35,4,169,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,28,Family medicine,MD,Private,15,40,responders,0,0
+35,5,169,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,28,Family medicine,MD,Private,15,40,responders,0,0
+35,6,169,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,28,Family medicine,MD,Private,15,40,responders,1,0
+35,7,169,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,28,Family medicine,MD,Private,15,40,responders,0,0
+36,1,170,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,36,Family medicine,MD,Private,6,45,responders,1,1
+36,2,170,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,36,Family medicine,MD,Private,6,45,responders,1,1
+36,3,170,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,36,Family medicine,MD,Private,6,45,responders,0,1
+36,4,170,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,36,Family medicine,MD,Private,6,45,responders,1,1
+36,5,170,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,36,Family medicine,MD,Private,6,45,responders,0,1
+36,6,170,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,36,Family medicine,MD,Private,6,45,responders,1,1
+36,7,170,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,36,Family medicine,MD,Private,6,45,responders,1,1
+37,1,172,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,37,Family medicine,MD,Private,8,27,responders,0,1
+37,2,172,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,37,Family medicine,MD,Private,8,27,responders,1,1
+37,3,172,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,37,Family medicine,MD,Private,8,27,responders,0,1
+37,4,172,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,37,Family medicine,MD,Private,8,27,responders,1,1
+37,5,172,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,37,Family medicine,MD,Private,8,27,responders,1,1
+37,6,172,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,37,Family medicine,MD,Private,8,27,responders,1,1
+37,7,172,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,37,Family medicine,MD,Private,8,27,responders,0,1
+38,1,174,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,13,30,responders,0,0
+38,2,174,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,13,30,responders,1,0
+38,3,174,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,13,30,responders,0,0
+38,4,174,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,13,30,responders,0,0
+38,5,174,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,13,30,responders,0,0
+38,6,174,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,13,30,responders,1,0
+38,7,174,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,female,42,Family medicine,MD,Private,13,30,responders,0,0
+39,1,175,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,43,Family medicine,MD,Private,14,30,responders,0,1
+39,2,175,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,43,Family medicine,MD,Private,14,30,responders,1,1
+39,3,175,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,43,Family medicine,MD,Private,14,30,responders,0,1
+39,4,175,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,43,Family medicine,MD,Private,14,30,responders,0,1
+39,5,175,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,43,Family medicine,MD,Private,14,30,responders,0,1
+39,6,175,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,43,Family medicine,MD,Private,14,30,responders,1,1
+39,7,175,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,43,Family medicine,MD,Private,14,30,responders,0,1
+40,1,177,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,44,Family medicine,MD,Academic,16,32,responders,0,1
+40,2,177,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,44,Family medicine,MD,Academic,16,32,responders,1,1
+40,3,177,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,44,Family medicine,MD,Academic,16,32,responders,0,1
+40,4,177,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,44,Family medicine,MD,Academic,16,32,responders,1,1
+40,5,177,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,44,Family medicine,MD,Academic,16,32,responders,0,1
+40,6,177,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,44,Family medicine,MD,Academic,16,32,responders,0,1
+40,7,177,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,44,Family medicine,MD,Academic,16,32,responders,0,1
+41,1,178,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,49,Family medicine,MD,Academic,19,35,responders,1,1
+41,2,178,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,49,Family medicine,MD,Academic,19,35,responders,1,1
+41,3,178,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,49,Family medicine,MD,Academic,19,35,responders,0,1
+41,4,178,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,49,Family medicine,MD,Academic,19,35,responders,0,0
+41,5,178,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,49,Family medicine,MD,Academic,19,35,responders,1,0
+41,6,178,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,49,Family medicine,MD,Academic,19,35,responders,0,0
+41,7,178,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,49,Family medicine,MD,Academic,19,35,responders,0,0
+42,1,179,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,54,Family medicine,MD,Academic,23,8,responders,0,1
+42,2,179,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,54,Family medicine,MD,Academic,23,8,responders,1,1
+42,3,179,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,54,Family medicine,MD,Academic,23,8,responders,0,1
+42,4,179,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,54,Family medicine,MD,Academic,23,8,responders,0,1
+42,5,179,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,54,Family medicine,MD,Academic,23,8,responders,0,1
+42,6,179,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,54,Family medicine,MD,Academic,23,8,responders,1,1
+42,7,179,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,54,Family medicine,MD,Academic,23,8,responders,0,1
+43,1,180,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,17,16,responders,0,0
+43,2,180,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,17,16,responders,1,0
+43,3,180,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,17,16,responders,0,0
+43,4,180,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,17,16,responders,0,0
+43,5,180,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,17,16,responders,1,0
+43,6,180,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,17,16,responders,1,0
+43,7,180,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,17,16,responders,0,0
+44,1,181,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,50,Family medicine,MD,Academic,18,20,responders,0,0
+44,2,181,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,50,Family medicine,MD,Academic,18,20,responders,1,0
+44,3,181,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,50,Family medicine,MD,Academic,18,20,responders,0,0
+44,4,181,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,50,Family medicine,MD,Academic,18,20,responders,0,1
+44,5,181,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,50,Family medicine,MD,Academic,18,20,responders,1,1
+44,6,181,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,50,Family medicine,MD,Academic,18,20,responders,0,1
+44,7,181,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,regular ordering,male,50,Family medicine,MD,Academic,18,20,responders,0,1
+45,1,182,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,44,Family medicine,MD,Academic,18,43,responders,0,0
+45,2,182,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,44,Family medicine,MD,Academic,18,43,responders,1,0
+45,3,182,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,44,Family medicine,MD,Academic,18,43,responders,0,0
+45,4,182,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,44,Family medicine,MD,Academic,18,43,responders,0,0
+45,5,182,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,44,Family medicine,MD,Academic,18,43,responders,1,0
+45,6,182,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,44,Family medicine,MD,Academic,18,43,responders,0,0
+45,7,182,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,reverse ordering,male,44,Family medicine,MD,Academic,18,43,responders,1,0
+46,1,183,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,56,Family medicine,MD,Academic,27,4,responders,0,0
+46,2,183,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,56,Family medicine,MD,Academic,27,4,responders,0,0
+46,3,183,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,56,Family medicine,MD,Academic,27,4,responders,0,0
+46,4,183,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,56,Family medicine,MD,Academic,27,4,responders,0,1
+46,5,183,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,56,Family medicine,MD,Academic,27,4,responders,0,1
+46,6,183,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,56,Family medicine,MD,Academic,27,4,responders,1,1
+46,7,183,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,56,Family medicine,MD,Academic,27,4,responders,1,1
+47,1,184,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,12,30,responders,1,1
+47,2,184,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,12,30,responders,,1
+47,3,184,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,12,30,responders,1,1
+47,4,184,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,12,30,responders,0,0
+47,5,184,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,12,30,responders,0,0
+47,6,184,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,12,30,responders,0,0
+47,7,184,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,12,30,responders,0,0
+48,1,185,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,37,Family medicine,MD,Academic,6,20,responders,0,0
+48,2,185,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,37,Family medicine,MD,Academic,6,20,responders,0,0
+48,3,185,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,37,Family medicine,MD,Academic,6,20,responders,0,0
+48,4,185,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,37,Family medicine,MD,Academic,6,20,responders,0,0
+48,5,185,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,37,Family medicine,MD,Academic,6,20,responders,0,0
+48,6,185,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,37,Family medicine,MD,Academic,6,20,responders,1,0
+48,7,185,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,male,37,Family medicine,MD,Academic,6,20,responders,0,0
+49,1,186,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,1
+49,2,186,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,,1
+49,3,186,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,1
+49,4,186,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+49,5,186,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+49,6,186,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+49,7,186,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,1,0
+50,1,187,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,49,Family medicine,MD,Academic,20,16,responders,1,1
+50,2,187,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,49,Family medicine,MD,Academic,20,16,responders,1,1
+50,3,187,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,49,Family medicine,MD,Academic,20,16,responders,0,1
+50,4,187,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,49,Family medicine,MD,Academic,20,16,responders,0,0
+50,5,187,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,49,Family medicine,MD,Academic,20,16,responders,0,0
+50,6,187,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,49,Family medicine,MD,Academic,20,16,responders,0,0
+50,7,187,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,regular ordering,male,49,Family medicine,MD,Academic,20,16,responders,0,0
+51,1,188,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,18,16,responders,0,1
+51,2,188,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,18,16,responders,0,1
+51,3,188,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,18,16,responders,0,1
+51,4,188,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,18,16,responders,0,1
+51,5,188,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,18,16,responders,1,1
+51,6,188,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,18,16,responders,0,1
+51,7,188,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,47,Family medicine,MD,Academic,18,16,responders,1,1
+52,1,189,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,38,Family medicine,MD,Academic,8,20,responders,0,0
+52,2,189,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,38,Family medicine,MD,Academic,8,20,responders,1,0
+52,3,189,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,38,Family medicine,MD,Academic,8,20,responders,0,0
+52,4,189,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,38,Family medicine,MD,Academic,8,20,responders,0,1
+52,5,189,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,38,Family medicine,MD,Academic,8,20,responders,0,1
+52,6,189,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,38,Family medicine,MD,Academic,8,20,responders,0,1
+52,7,189,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,38,Family medicine,MD,Academic,8,20,responders,1,1
+53,1,191,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,20,responders,0,1
+53,2,191,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,20,responders,1,1
+53,3,191,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,20,responders,0,1
+53,4,191,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,20,responders,0,0
+53,5,191,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,20,responders,1,0
+53,6,191,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,20,responders,0,0
+53,7,191,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,20,responders,0,0
+54,1,192,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,39,Family medicine,MD,Academic,8,8,responders,0,0
+54,2,192,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,39,Family medicine,MD,Academic,8,8,responders,1,0
+54,3,192,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,39,Family medicine,MD,Academic,8,8,responders,0,0
+54,4,192,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,39,Family medicine,MD,Academic,8,8,responders,0,1
+54,5,192,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,39,Family medicine,MD,Academic,8,8,responders,0,1
+54,6,192,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,39,Family medicine,MD,Academic,8,8,responders,0,1
+54,7,192,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,39,Family medicine,MD,Academic,8,8,responders,1,1
+55,1,193,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,49,Family medicine,MD,Academic,20,15,responders,0,1
+55,2,193,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,49,Family medicine,MD,Academic,20,15,responders,1,1
+55,3,193,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,49,Family medicine,MD,Academic,20,15,responders,0,1
+55,4,193,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,49,Family medicine,MD,Academic,20,15,responders,0,1
+55,5,193,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,49,Family medicine,MD,Academic,20,15,responders,0,1
+55,6,193,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,49,Family medicine,MD,Academic,20,15,responders,0,1
+55,7,193,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,49,Family medicine,MD,Academic,20,15,responders,0,1
+56,1,195,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,35,Family medicine,MD,Academic,6,8,responders,0,0
+56,2,195,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,35,Family medicine,MD,Academic,6,8,responders,1,0
+56,3,195,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,35,Family medicine,MD,Academic,6,8,responders,0,0
+56,4,195,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,35,Family medicine,MD,Academic,6,8,responders,1,0
+56,5,195,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,35,Family medicine,MD,Academic,6,8,responders,0,0
+56,6,195,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,35,Family medicine,MD,Academic,6,8,responders,0,0
+56,7,195,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,female,35,Family medicine,MD,Academic,6,8,responders,0,0
+57,1,196,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,8,responders,0,1
+57,2,196,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,8,responders,1,1
+57,3,196,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,8,responders,0,1
+57,4,196,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,8,responders,0,1
+57,5,196,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,8,responders,0,1
+57,6,196,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,8,responders,0,1
+57,7,196,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,female,41,Family medicine,MD,Academic,10,8,responders,0,1
+58,1,197,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,40,Family medicine,MD,Academic,6,8,responders,0,0
+58,2,197,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,40,Family medicine,MD,Academic,6,8,responders,1,0
+58,3,197,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,40,Family medicine,MD,Academic,6,8,responders,0,0
+58,4,197,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,40,Family medicine,MD,Academic,6,8,responders,0,0
+58,5,197,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,40,Family medicine,MD,Academic,6,8,responders,0,0
+58,6,197,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,40,Family medicine,MD,Academic,6,8,responders,0,0
+58,7,197,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,male,40,Family medicine,MD,Academic,6,8,responders,0,0
+59,1,198,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+59,2,198,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+59,3,198,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+59,4,198,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+59,5,198,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+59,6,198,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+59,7,198,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,49,Family medicine,MD,Academic,20,20,responders,0,0
+60,1,200,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,60,Family medicine,MD,Academic,28,10,responders,0,0
+60,2,200,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,60,Family medicine,MD,Academic,28,10,responders,1,0
+60,3,200,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,60,Family medicine,MD,Academic,28,10,responders,0,0
+60,4,200,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,60,Family medicine,MD,Academic,28,10,responders,0,1
+60,5,200,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,60,Family medicine,MD,Academic,28,10,responders,0,1
+60,6,200,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,60,Family medicine,MD,Academic,28,10,responders,1,1
+60,7,200,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,60,Family medicine,MD,Academic,28,10,responders,0,1
+61,1,202,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,56,Family medicine,MD,Academic,25,10,responders,0,0
+61,2,202,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,56,Family medicine,MD,Academic,25,10,responders,1,0
+61,3,202,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,56,Family medicine,MD,Academic,25,10,responders,1,0
+61,4,202,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,56,Family medicine,MD,Academic,25,10,responders,0,1
+61,5,202,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,56,Family medicine,MD,Academic,25,10,responders,1,1
+61,6,202,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,56,Family medicine,MD,Academic,25,10,responders,0,1
+61,7,202,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,male,56,Family medicine,MD,Academic,25,10,responders,1,1
+62,1,204,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,45,Family medicine,MD,Academic,20,12,responders,0,1
+62,2,204,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,45,Family medicine,MD,Academic,20,12,responders,1,1
+62,3,204,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,45,Family medicine,MD,Academic,20,12,responders,0,1
+62,4,204,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,45,Family medicine,MD,Academic,20,12,responders,0,0
+62,5,204,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,45,Family medicine,MD,Academic,20,12,responders,0,0
+62,6,204,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,45,Family medicine,MD,Academic,20,12,responders,1,0
+62,7,204,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,45,Family medicine,MD,Academic,20,12,responders,1,0
+63,1,205,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,39,Family medicine,MD,Academic,10,24,responders,1,1
+63,2,205,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,39,Family medicine,MD,Academic,10,24,responders,,1
+63,3,205,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,39,Family medicine,MD,Academic,10,24,responders,0,1
+63,4,205,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,39,Family medicine,MD,Academic,10,24,responders,0,0
+63,5,205,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,39,Family medicine,MD,Academic,10,24,responders,0,0
+63,6,205,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,39,Family medicine,MD,Academic,10,24,responders,0,0
+63,7,205,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,female,39,Family medicine,MD,Academic,10,24,responders,0,0
+64,1,207,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,34,Family medicine,MD,Academic,5,8,responders,0,0
+64,2,207,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,34,Family medicine,MD,Academic,5,8,responders,1,0
+64,3,207,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,34,Family medicine,MD,Academic,5,8,responders,0,0
+64,4,207,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,34,Family medicine,MD,Academic,5,8,responders,1,1
+64,5,207,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,34,Family medicine,MD,Academic,5,8,responders,0,1
+64,6,207,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,34,Family medicine,MD,Academic,5,8,responders,0,1
+64,7,207,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,34,Family medicine,MD,Academic,5,8,responders,0,1
+65,1,208,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,56,Family medicine,MD,Academic,30,40,responders,1,0
+65,2,208,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,56,Family medicine,MD,Academic,30,40,responders,1,0
+65,3,208,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,56,Family medicine,MD,Academic,30,40,responders,0,0
+65,4,208,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,56,Family medicine,MD,Academic,30,40,responders,1,1
+65,5,208,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,56,Family medicine,MD,Academic,30,40,responders,1,1
+65,6,208,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,56,Family medicine,MD,Academic,30,40,responders,1,1
+65,7,208,OTC unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,male,56,Family medicine,MD,Academic,30,40,responders,1,1
+66,1,209,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,48,Family medicine,MD,Academic,28,32,responders,1,1
+66,2,209,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,48,Family medicine,MD,Academic,28,32,responders,1,1
+66,3,209,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,48,Family medicine,MD,Academic,28,32,responders,0,1
+66,4,209,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,48,Family medicine,MD,Academic,28,32,responders,0,1
+66,5,209,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,48,Family medicine,MD,Academic,28,32,responders,1,1
+66,6,209,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,48,Family medicine,MD,Academic,28,32,responders,0,1
+66,7,209,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,reverse ordering,male,48,Family medicine,MD,Academic,28,32,responders,1,1
+67,1,210,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,41,Family medicine,MD,Academic,11,14,responders,0,0
+67,2,210,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,41,Family medicine,MD,Academic,11,14,responders,1,0
+67,3,210,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,41,Family medicine,MD,Academic,11,14,responders,0,0
+67,4,210,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,41,Family medicine,MD,Academic,11,14,responders,0,0
+67,5,210,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,41,Family medicine,MD,Academic,11,14,responders,1,0
+67,6,210,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,41,Family medicine,MD,Academic,11,14,responders,1,0
+67,7,210,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block first,regular ordering,female,41,Family medicine,MD,Academic,11,14,responders,0,0
+68,1,211,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,45,Family medicine,MD,Academic,17,2,responders,0,1
+68,2,211,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,45,Family medicine,MD,Academic,17,2,responders,0,1
+68,3,211,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,45,Family medicine,MD,Academic,17,2,responders,0,1
+68,4,211,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,45,Family medicine,MD,Academic,17,2,responders,0,1
+68,5,211,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,45,Family medicine,MD,Academic,17,2,responders,1,1
+68,6,211,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,45,Family medicine,MD,Academic,17,2,responders,1,1
+68,7,211,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block second,regular ordering,female,45,Family medicine,MD,Academic,17,2,responders,1,1
+69,1,213,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,20,12,responders,0,0
+69,2,213,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,20,12,responders,1,0
+69,3,213,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,20,12,responders,0,0
+69,4,213,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,20,12,responders,0,1
+69,5,213,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,20,12,responders,1,1
+69,6,213,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,20,12,responders,1,1
+69,7,213,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,20,12,responders,0,1
+70,1,220,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,57,Family medicine,MD,Private,20,20,responders,0,0
+70,2,220,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,57,Family medicine,MD,Private,20,20,responders,1,0
+70,3,220,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,57,Family medicine,MD,Private,20,20,responders,0,0
+70,4,220,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,57,Family medicine,MD,Private,20,20,responders,1,0
+70,5,220,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,57,Family medicine,MD,Private,20,20,responders,1,0
+70,6,220,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,57,Family medicine,MD,Private,20,20,responders,1,0
+70,7,220,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,57,Family medicine,MD,Private,20,20,responders,1,0
+71,1,221,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,43,Family medicine,MD,Private,10,29,responders,1,0
+71,2,221,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,43,Family medicine,MD,Private,10,29,responders,0,0
+71,3,221,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,43,Family medicine,MD,Private,10,29,responders,0,0
+71,4,221,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,43,Family medicine,MD,Private,10,29,responders,0,0
+71,5,221,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,43,Family medicine,MD,Private,10,29,responders,1,0
+71,6,221,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,43,Family medicine,MD,Private,10,29,responders,1,0
+71,7,221,OTC unpacked,Narrow unpacked,grouping on top,OTC block second,reverse ordering,female,43,Family medicine,MD,Private,10,29,responders,0,0
+72,1,226,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,44,Family medicine,MD,Private,15,50,responders,0,0
+72,2,226,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,44,Family medicine,MD,Private,15,50,responders,1,0
+72,3,226,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,44,Family medicine,MD,Private,15,50,responders,0,0
+72,4,226,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,44,Family medicine,MD,Private,15,50,responders,1,1
+72,5,226,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,44,Family medicine,MD,Private,15,50,responders,1,1
+72,6,226,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,44,Family medicine,MD,Private,15,50,responders,1,1
+72,7,226,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,male,44,Family medicine,MD,Private,15,50,responders,1,1
+73,1,227,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,31,Other,PA,Private,5,35,responders,0,1
+73,2,227,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,31,Other,PA,Private,5,35,responders,1,1
+73,3,227,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,31,Other,PA,Private,5,35,responders,0,1
+73,4,227,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,31,Other,PA,Private,5,35,responders,1,0
+73,5,227,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,31,Other,PA,Private,5,35,responders,1,0
+73,6,227,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,31,Other,PA,Private,5,35,responders,1,0
+73,7,227,Antibiotics unpacked,Narrow unpacked,grouping on top,OTC block first,regular ordering,female,31,Other,PA,Private,5,35,responders,1,0
+74,1,229,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Private,18,32,responders,0,1
+74,2,229,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Private,18,32,responders,1,1
+74,3,229,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Private,18,32,responders,0,1
+74,4,229,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Private,18,32,responders,0,0
+74,5,229,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Private,18,32,responders,1,0
+74,6,229,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Private,18,32,responders,1,0
+74,7,229,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,47,Family medicine,MD,Private,18,32,responders,0,0
+75,1,230,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,48,Family medicine,NP,Private,19,18,responders,0,0
+75,2,230,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,48,Family medicine,NP,Private,19,18,responders,1,0
+75,3,230,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,48,Family medicine,NP,Private,19,18,responders,0,0
+75,4,230,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,48,Family medicine,NP,Private,19,18,responders,0,1
+75,5,230,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,48,Family medicine,NP,Private,19,18,responders,1,1
+75,6,230,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,48,Family medicine,NP,Private,19,18,responders,0,1
+75,7,230,OTC unpacked,Broad unpacked,grouping on top,OTC block second,regular ordering,female,48,Family medicine,NP,Private,19,18,responders,0,1
+76,1,231,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,47,Family medicine,MD,Private,16,45,responders,0,1
+76,2,231,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,47,Family medicine,MD,Private,16,45,responders,1,1
+76,3,231,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,47,Family medicine,MD,Private,16,45,responders,0,1
+76,4,231,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,47,Family medicine,MD,Private,16,45,responders,0,1
+76,5,231,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,47,Family medicine,MD,Private,16,45,responders,1,1
+76,6,231,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,47,Family medicine,MD,Private,16,45,responders,0,1
+76,7,231,Antibiotics unpacked,Broad unpacked,grouping on top,OTC block first,regular ordering,female,47,Family medicine,MD,Private,16,45,responders,1,1
+77,1,232,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,43,Family medicine,MD,Private,15,30,responders,0,1
+77,2,232,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,43,Family medicine,MD,Private,15,30,responders,1,1
+77,3,232,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,43,Family medicine,MD,Private,15,30,responders,0,1
+77,4,232,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,43,Family medicine,MD,Private,15,30,responders,0,0
+77,5,232,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,43,Family medicine,MD,Private,15,30,responders,0,0
+77,6,232,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,43,Family medicine,MD,Private,15,30,responders,0,0
+77,7,232,Antibiotics unpacked,Narrow unpacked,grouping on bottom,OTC block second,regular ordering,female,43,Family medicine,MD,Private,15,30,responders,1,0
+78,1,237,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,,Family medicine,MD,Private,43,40,responders,0,0
+78,2,237,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,,Family medicine,MD,Private,43,40,responders,1,0
+78,3,237,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,,Family medicine,MD,Private,43,40,responders,0,0
+78,4,237,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,,Family medicine,MD,Private,43,40,responders,1,1
+78,5,237,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,,Family medicine,MD,Private,43,40,responders,1,1
+78,6,237,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,,Family medicine,MD,Private,43,40,responders,1,1
+78,7,237,OTC unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,,Family medicine,MD,Private,43,40,responders,1,1
+79,1,242,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,53,Family medicine,MD,Private,24,20,responders,1,0
+79,2,242,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,53,Family medicine,MD,Private,24,20,responders,0,0
+79,3,242,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,53,Family medicine,MD,Private,24,20,responders,0,0
+79,4,242,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,53,Family medicine,MD,Private,24,20,responders,1,0
+79,5,242,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,53,Family medicine,MD,Private,24,20,responders,0,0
+79,6,242,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,53,Family medicine,MD,Private,24,20,responders,1,0
+79,7,242,OTC unpacked,Narrow unpacked,grouping on top,OTC block first,reverse ordering,male,53,Family medicine,MD,Private,24,20,responders,1,0
+80,1,246,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,43,Family medicine,MD,Private,15,35,responders,0,0
+80,2,246,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,43,Family medicine,MD,Private,15,35,responders,1,0
+80,3,246,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,43,Family medicine,MD,Private,15,35,responders,0,0
+80,4,246,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,43,Family medicine,MD,Private,15,35,responders,1,0
+80,5,246,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,43,Family medicine,MD,Private,15,35,responders,1,0
+80,6,246,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,43,Family medicine,MD,Private,15,35,responders,1,0
+80,7,246,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,43,Family medicine,MD,Private,15,35,responders,0,0
+81,1,248,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,50,Family medicine,MD,Private,21,32,responders,0,0
+81,2,248,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,50,Family medicine,MD,Private,21,32,responders,0,0
+81,3,248,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,50,Family medicine,MD,Private,21,32,responders,0,0
+81,4,248,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,50,Family medicine,MD,Private,21,32,responders,0,1
+81,5,248,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,50,Family medicine,MD,Private,21,32,responders,1,1
+81,6,248,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,50,Family medicine,MD,Private,21,32,responders,1,1
+81,7,248,OTC unpacked,Broad unpacked,grouping on top,OTC block first,reverse ordering,female,50,Family medicine,MD,Private,21,32,responders,1,1
+82,1,251,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,15,24,responders,0,1
+82,2,251,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,15,24,responders,0,1
+82,3,251,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,15,24,responders,0,1
+82,4,251,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,15,24,responders,1,1
+82,5,251,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,15,24,responders,1,1
+82,6,251,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,15,24,responders,1,1
+82,7,251,Antibiotics unpacked,Broad unpacked,grouping on bottom,OTC block first,reverse ordering,male,46,Family medicine,MD,Private,15,24,responders,1,1
+83,1,255,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,59,Family medicine,MD,Private,30,35,responders,0,0
+83,2,255,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,59,Family medicine,MD,Private,30,35,responders,0,0
+83,3,255,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,59,Family medicine,MD,Private,30,35,responders,0,0
+83,4,255,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,59,Family medicine,MD,Private,30,35,responders,1,1
+83,5,255,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,59,Family medicine,MD,Private,30,35,responders,0,1
+83,6,255,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,59,Family medicine,MD,Private,30,35,responders,0,1
+83,7,255,OTC unpacked,Broad unpacked,grouping on top,OTC block second,reverse ordering,male,59,Family medicine,MD,Private,30,35,responders,1,1
+84,1,260,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,40,Other,PA,FQHC,10,40,responders,1,0
+84,2,260,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,40,Other,PA,FQHC,10,40,responders,1,0
+84,3,260,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,40,Other,PA,FQHC,10,40,responders,1,0
+84,4,260,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,40,Other,PA,FQHC,10,40,responders,,0
+84,5,260,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,40,Other,PA,FQHC,10,40,responders,,0
+84,6,260,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,40,Other,PA,FQHC,10,40,responders,1,0
+84,7,260,OTC unpacked,Narrow unpacked,grouping on bottom,OTC block second,reverse ordering,male,40,Other,PA,FQHC,10,40,responders,1,0
+85,1,100,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+85,2,100,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+85,3,100,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+85,4,100,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+85,5,100,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+85,6,100,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+85,7,100,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+86,1,101,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+86,2,101,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+86,3,101,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+86,4,101,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+86,5,101,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+86,6,101,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+86,7,101,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+87,1,102,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+87,2,102,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+87,3,102,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+87,4,102,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+87,5,102,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+87,6,102,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+87,7,102,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+88,1,104,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+88,2,104,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+88,3,104,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+88,4,104,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+88,5,104,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+88,6,104,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+88,7,104,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+89,1,107,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+89,2,107,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+89,3,107,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+89,4,107,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+89,5,107,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+89,6,107,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+89,7,107,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+90,1,109,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+90,2,109,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+90,3,109,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+90,4,109,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+90,5,109,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+90,6,109,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+90,7,109,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+91,1,115,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+91,2,115,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+91,3,115,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+91,4,115,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+91,5,115,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+91,6,115,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+91,7,115,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+92,1,116,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+92,2,116,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+92,3,116,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+92,4,116,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+92,5,116,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+92,6,116,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+92,7,116,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+93,1,118,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+93,2,118,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+93,3,118,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+93,4,118,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+93,5,118,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+93,6,118,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+93,7,118,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+94,1,119,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+94,2,119,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+94,3,119,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+94,4,119,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+94,5,119,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+94,6,119,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+94,7,119,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+95,1,121,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+95,2,121,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+95,3,121,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+95,4,121,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+95,5,121,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+95,6,121,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+95,7,121,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+96,1,122,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+96,2,122,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+96,3,122,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+96,4,122,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+96,5,122,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+96,6,122,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+96,7,122,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+97,1,125,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+97,2,125,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+97,3,125,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+97,4,125,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+97,5,125,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+97,6,125,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+97,7,125,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+98,1,126,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+98,2,126,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+98,3,126,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+98,4,126,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+98,5,126,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+98,6,126,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+98,7,126,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+99,1,127,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+99,2,127,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+99,3,127,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+99,4,127,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+99,5,127,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+99,6,127,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+99,7,127,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+100,1,128,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+100,2,128,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+100,3,128,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+100,4,128,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+100,5,128,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+100,6,128,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+100,7,128,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+101,1,129,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+101,2,129,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+101,3,129,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+101,4,129,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+101,5,129,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+101,6,129,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+101,7,129,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+102,1,130,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+102,2,130,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+102,3,130,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+102,4,130,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+102,5,130,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+102,6,130,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+102,7,130,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+103,1,132,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+103,2,132,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+103,3,132,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+103,4,132,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+103,5,132,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+103,6,132,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+103,7,132,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+104,1,134,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+104,2,134,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+104,3,134,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+104,4,134,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+104,5,134,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+104,6,134,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+104,7,134,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+105,1,135,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+105,2,135,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+105,3,135,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+105,4,135,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+105,5,135,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+105,6,135,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+105,7,135,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+106,1,136,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+106,2,136,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+106,3,136,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+106,4,136,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+106,5,136,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+106,6,136,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+106,7,136,,,,,,female,,Other,PA,FQHC,,,nonresponders,,
+107,1,138,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+107,2,138,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+107,3,138,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+107,4,138,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+107,5,138,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+107,6,138,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+107,7,138,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+108,1,139,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+108,2,139,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+108,3,139,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+108,4,139,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+108,5,139,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+108,6,139,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+108,7,139,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+109,1,144,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+109,2,144,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+109,3,144,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+109,4,144,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+109,5,144,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+109,6,144,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+109,7,144,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+110,1,146,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+110,2,146,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+110,3,146,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+110,4,146,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+110,5,146,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+110,6,146,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+110,7,146,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+111,1,147,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+111,2,147,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+111,3,147,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+111,4,147,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+111,5,147,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+111,6,147,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+111,7,147,,,,,,female,,Other,NP,FQHC,,,nonresponders,,
+112,1,149,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+112,2,149,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+112,3,149,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+112,4,149,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+112,5,149,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+112,6,149,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+112,7,149,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+113,1,155,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+113,2,155,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+113,3,155,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+113,4,155,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+113,5,155,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+113,6,155,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+113,7,155,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+114,1,158,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+114,2,158,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+114,3,158,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+114,4,158,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+114,5,158,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+114,6,158,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+114,7,158,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+115,1,159,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+115,2,159,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+115,3,159,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+115,4,159,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+115,5,159,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+115,6,159,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+115,7,159,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+116,1,161,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+116,2,161,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+116,3,161,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+116,4,161,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+116,5,161,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+116,6,161,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+116,7,161,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+117,1,164,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+117,2,164,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+117,3,164,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+117,4,164,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+117,5,164,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+117,6,164,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+117,7,164,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+118,1,166,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+118,2,166,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+118,3,166,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+118,4,166,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+118,5,166,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+118,6,166,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+118,7,166,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+119,1,167,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+119,2,167,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+119,3,167,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+119,4,167,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+119,5,167,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+119,6,167,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+119,7,167,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+120,1,171,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+120,2,171,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+120,3,171,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+120,4,171,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+120,5,171,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+120,6,171,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+120,7,171,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+121,1,173,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+121,2,173,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+121,3,173,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+121,4,173,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+121,5,173,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+121,6,173,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+121,7,173,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+122,1,176,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+122,2,176,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+122,3,176,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+122,4,176,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+122,5,176,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+122,6,176,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+122,7,176,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+123,1,190,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+123,2,190,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+123,3,190,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+123,4,190,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+123,5,190,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+123,6,190,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+123,7,190,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+124,1,194,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+124,2,194,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+124,3,194,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+124,4,194,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+124,5,194,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+124,6,194,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+124,7,194,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+125,1,199,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+125,2,199,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+125,3,199,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+125,4,199,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+125,5,199,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+125,6,199,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+125,7,199,,,,,,male,,Family medicine,MD,Academic,,,nonresponders,,
+126,1,201,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+126,2,201,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+126,3,201,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+126,4,201,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+126,5,201,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+126,6,201,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+126,7,201,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+127,1,203,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+127,2,203,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+127,3,203,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+127,4,203,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+127,5,203,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+127,6,203,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+127,7,203,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+128,1,206,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+128,2,206,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+128,3,206,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+128,4,206,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+128,5,206,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+128,6,206,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+128,7,206,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+129,1,212,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+129,2,212,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+129,3,212,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+129,4,212,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+129,5,212,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+129,6,212,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+129,7,212,,,,,,female,,Family medicine,MD,Academic,,,nonresponders,,
+130,1,214,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+130,2,214,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+130,3,214,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+130,4,214,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+130,5,214,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+130,6,214,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+130,7,214,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+131,1,215,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+131,2,215,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+131,3,215,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+131,4,215,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+131,5,215,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+131,6,215,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+131,7,215,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+132,1,216,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+132,2,216,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+132,3,216,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+132,4,216,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+132,5,216,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+132,6,216,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+132,7,216,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+133,1,217,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+133,2,217,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+133,3,217,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+133,4,217,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+133,5,217,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+133,6,217,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+133,7,217,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+134,1,218,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+134,2,218,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+134,3,218,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+134,4,218,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+134,5,218,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+134,6,218,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+134,7,218,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+135,1,219,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+135,2,219,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+135,3,219,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+135,4,219,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+135,5,219,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+135,6,219,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+135,7,219,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+136,1,222,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+136,2,222,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+136,3,222,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+136,4,222,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+136,5,222,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+136,6,222,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+136,7,222,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+137,1,223,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+137,2,223,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+137,3,223,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+137,4,223,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+137,5,223,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+137,6,223,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+137,7,223,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+138,1,224,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+138,2,224,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+138,3,224,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+138,4,224,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+138,5,224,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+138,6,224,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+138,7,224,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+139,1,225,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+139,2,225,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+139,3,225,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+139,4,225,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+139,5,225,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+139,6,225,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+139,7,225,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+140,1,228,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+140,2,228,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+140,3,228,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+140,4,228,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+140,5,228,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+140,6,228,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+140,7,228,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+141,1,233,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+141,2,233,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+141,3,233,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+141,4,233,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+141,5,233,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+141,6,233,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+141,7,233,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+142,1,234,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+142,2,234,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+142,3,234,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+142,4,234,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+142,5,234,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+142,6,234,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+142,7,234,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+143,1,235,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+143,2,235,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+143,3,235,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+143,4,235,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+143,5,235,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+143,6,235,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+143,7,235,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+144,1,236,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+144,2,236,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+144,3,236,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+144,4,236,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+144,5,236,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+144,6,236,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+144,7,236,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+145,1,238,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+145,2,238,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+145,3,238,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+145,4,238,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+145,5,238,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+145,6,238,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+145,7,238,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+146,1,239,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+146,2,239,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+146,3,239,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+146,4,239,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+146,5,239,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+146,6,239,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+146,7,239,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+147,1,240,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+147,2,240,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+147,3,240,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+147,4,240,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+147,5,240,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+147,6,240,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+147,7,240,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+148,1,241,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+148,2,241,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+148,3,241,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+148,4,241,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+148,5,241,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+148,6,241,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+148,7,241,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+149,1,243,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+149,2,243,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+149,3,243,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+149,4,243,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+149,5,243,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+149,6,243,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+149,7,243,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+150,1,244,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+150,2,244,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+150,3,244,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+150,4,244,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+150,5,244,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+150,6,244,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+150,7,244,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+151,1,245,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+151,2,245,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+151,3,245,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+151,4,245,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+151,5,245,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+151,6,245,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+151,7,245,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+152,1,247,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+152,2,247,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+152,3,247,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+152,4,247,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+152,5,247,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+152,6,247,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+152,7,247,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+153,1,249,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+153,2,249,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+153,3,249,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+153,4,249,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+153,5,249,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+153,6,249,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+153,7,249,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+154,1,250,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+154,2,250,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+154,3,250,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+154,4,250,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+154,5,250,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+154,6,250,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+154,7,250,,,,,,female,,Family medicine,MD,Private,,,nonresponders,,
+155,1,252,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+155,2,252,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+155,3,252,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+155,4,252,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+155,5,252,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+155,6,252,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+155,7,252,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+156,1,253,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+156,2,253,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+156,3,253,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+156,4,253,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+156,5,253,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+156,6,253,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+156,7,253,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+157,1,254,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+157,2,254,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+157,3,254,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+157,4,254,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+157,5,254,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+157,6,254,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+157,7,254,,,,,,male,,Family medicine,MD,Private,,,nonresponders,,
+158,1,256,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+158,2,256,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+158,3,256,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+158,4,256,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+158,5,256,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+158,6,256,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+158,7,256,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+159,1,257,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+159,2,257,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+159,3,257,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+159,4,257,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+159,5,257,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+159,6,257,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+159,7,257,,,,,,male,,Internal medicine,MD,FQHC,,,nonresponders,,
+160,1,258,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+160,2,258,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+160,3,258,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+160,4,258,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+160,5,258,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+160,6,258,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+160,7,258,,,,,,female,,Family medicine,MD,FQHC,,,nonresponders,,
+161,1,259,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+161,2,259,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+161,3,259,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+161,4,259,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+161,5,259,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+161,6,259,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+161,7,259,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+162,1,261,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+162,2,261,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+162,3,261,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+162,4,261,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+162,5,261,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+162,6,261,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+162,7,261,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+163,1,262,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+163,2,262,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+163,3,262,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+163,4,262,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+163,5,262,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+163,6,262,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+163,7,262,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+164,1,263,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+164,2,263,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+164,3,263,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+164,4,263,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+164,5,263,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+164,6,263,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+164,7,263,,,,,,female,,Internal medicine,MD,FQHC,,,nonresponders,,
+165,1,264,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+165,2,264,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+165,3,264,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+165,4,264,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+165,5,264,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+165,6,264,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+165,7,264,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+166,1,265,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+166,2,265,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+166,3,265,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+166,4,265,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+166,5,265,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+166,6,265,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
+166,7,265,,,,,,male,,Family medicine,MD,FQHC,,,nonresponders,,
