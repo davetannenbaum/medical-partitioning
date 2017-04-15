@@ -1,4 +1,4 @@
-###Code and Data for Tannenbaum et al. (2015) "Nudging physician prescription decisions by partitioning the order set: Results of a vignette-based study."###
+### Code and Data for Tannenbaum et al. (2015) "Nudging physician prescription decisions by partitioning the order set: Results of a vignette-based study." ###
 
 Contains data and STATA analysis scripts for the study reported in Tannenbaum et al. (2015).
 
