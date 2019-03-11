@@ -2,28 +2,24 @@
 ** This file: analysis script.do
 ** Format: Stata 12 do-file
 ** Author: David Tannenbaum <davetannenbaum@gmail.com>
-** Purpose:STATA code for analyzing cleaned data used in Tannenbaum et al., 2015 
-** "Nudging physician prescription decisions by partitioning the order set:
-** Results of a vignette-based study"
 ** =============================================================================
 
 ** IMPORTANT: change the working directory to wherever you have placed the files
 ** =============================================================================
 version 12.1
-cd "~/GitHub/medical-partitioning/"
-use "cleaned data.dta", clear
+use "https://github.com/davetannenbaum/medical-partitioning/blob/master/cleaned%20data.dta?raw=true", clear
 
 ** Demographics
 ** =============================================================================
 preserve
 collapse responder gender age specialty degree practice_type years_practice hours, by(id)
-tab responder gender, row chi2 // provider gender
-sum age, detail // provider age
-tab responder specialty, row chi2 // professional specialty
-tab responder degree, row chi2 // professional degree
-tab responder practice_type, row chi2 // practice setting
-sum years_practice, detail // years practicing
-sum hours, detail // hours per week
+tabulate responder gender, row chi2 // provider gender
+summarize age, detail // provider age
+tabulate responder specialty, row chi2 // professional specialty
+tabulate responder degree, row chi2 // professional degree
+tabulate responder practice_type, row chi2 // practice setting
+summarize years_practice, detail // years practicing
+summarize hours, detail // hours per week
 restore
 
 ** Model I (not adjusting for provider characteristics)
